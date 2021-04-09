@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="nao_tem_conta">Não tem conta? Cadastre-se</string>
+    <string name="digite_nome">Digite o seu nome</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="digite_endereco">Digite o endereço do imóvel completo</string>
+    <string name="digite_telefone">Digite seu telefone</string>
+    <string name="digite_titulo">Digite o título do anúncio</string>
+    <string name="digite_descricao">Digite uma descrição do imóvel</string>
+    <string name="Região">Região</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Filtro_Região">REGIÃO</string>
+    <string name="Valor_do_Imovel">R$ 0,00</string>
+    <string name="Estado">Sigla</string>
+    <string name="Tipo_Aluguel_Venda">Tipo</string>
+    <string name="Categoria_Anuncio">Categaria</string>
+    <string name="Descricao_Anuncio">Descrição</string>
+    <string name="Ver_Telefone">Ver telefone</string>
+    <string name="Ver_mapa">Ver localicação no mapa</string>
+    <string name="Salvar_Alteração_Nome" />
+    <string name="botao_Salvar_Alteracao_Nome" />
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "384449103226",
+    "firebase_url": "https://savi-imoveis-app-ab176-default-rtdb.firebaseio.com",
+    "project_id": "savi-imoveis-app-ab176",
+    "storage_bucket": "savi-imoveis-app-ab176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384449103226:android:c802aca3db3f419883c2c3",
+        "android_client_info": {
+          "package_name": "com.lucianoquirino.saviimoveisapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBttc6Z3XDILQzLEEkNlIBzeq7eqhXXqQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

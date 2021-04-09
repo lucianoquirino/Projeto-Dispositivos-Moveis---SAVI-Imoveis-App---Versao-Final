@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:layout_marginHorizontal="16dp"
+    android:layout_marginVertical="16dp"
+    android:backgroundTintMode="add"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:outlineAmbientShadowColor="#FFFFFF"
+    tools:context=".activity.LoginActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="196dp"
+        android:layout_height="186dp"
+        app:srcCompat="@drawable/logo"
+        tools:layout_editor_absoluteX="107dp"
+        tools:layout_editor_absoluteY="147dp" />
+
+    <EditText
+        android:id="@+id/editEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/background_edit_text"
+        android:ems="10"
+        android:hint="@string/digite_email"
+        android:inputType="textEmailAddress"
+        android:padding="10dp"
+        android:paddingStart="10dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+
+    <EditText
+        android:id="@+id/editSenha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/background_edit_text"
+        android:ems="10"
+        android:hint="@string/digite_senha"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:paddingStart="10dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+
+    <Button
+        android:id="@+id/buttonAtualizarNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="validarAutenticaoUsuario"
+        android:text="@string/botao_Entrar"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Não tem conta? Cadastre-se"
+        android:onClick="abrirTelaCadastro"
+        android:text="@string/nao_tem_conta"
+        android:textAlignment="center"
+        android:textColor="?android:attr/colorMultiSelectHighlight" />
+
+</LinearLayout>

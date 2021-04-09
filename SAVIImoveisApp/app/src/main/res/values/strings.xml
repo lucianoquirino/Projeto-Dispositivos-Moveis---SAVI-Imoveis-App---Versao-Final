@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">SAVI Imóveis</string>
+    <string name="title_activity_meus_anuncios">Meus Anúncios</string>
+    <string name="title_activity_detalhes_anuncios">Detalhes anúncio</string>
+    <string name="title_activity_localizacao_imovel">Localização do Imóvel</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="botao_Entrar">Entrar</string>
+    <string name="nao_tem_conta">Não tem conta? Cadastre-se</string>
+    <string name="digite_nome">Digite o seu nome</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="digite_endereco">Digite o endereço completo do imóvel</string>
+    <string name="digite_telefone">Digite seu telefone</string>
+    <string name="digite_titulo">Digite o título do anúncio</string>
+    <string name="digite_descricao">Digite uma descrição do imóvel</string>
+    <string name="Região">Região</string>
+    <string name="Tipo_De_Anuncio">Tipo</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Filtro_Região">REGIÃO</string>
+    <string name="titulo_do_produto">Título</string>
+    <string name="Valor_do_Imovel">R$ 0,00</string>
+    <string name="Estado">Sigla</string>
+    <string name="Tipo_Aluguel_Venda">Tipo</string>
+    <string name="Categoria_Anuncio">Categaria</string>
+    <string name="Descricao_Anuncio">Descrição</string>
+    <string name="Ver_Telefone">Ver telefone</string>
+    <string name="Ver_mapa">Ver localicação</string>
+    <string name="Salvar_Alteração_Nome" />
+    <string name="botao_Salvar_Alteracao_Nome" />
+
+    <string-array name="estados">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AL</item>
+        <item>AM</item>
+        <item>AP</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MG</item>
+        <item>MS</item>
+        <item>MT</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>PR</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>RS</item>
+        <item>SC</item>
+        <item>SE</item>
+        <item>SP</item>
+        <item>TO</item>
+    </string-array>
+
+    <string-array name="tipos">
+        <item>Aluguel</item>
+        <item>Venda</item>
+    </string-array>
+
+    <string-array name="Categorias">
+        <item>Casa</item>
+        <item>Apartamento</item>
+        <item>Comercial</item>
+        <item>Fazenda</item>
+        <item>Sítio</item>
+        <item>Chácara</item>
+        <item>Terreno</item>
+    </string-array>
+
+
+</resources>
